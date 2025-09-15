@@ -1,5 +1,5 @@
 function sortProductsByPrice(products) {
-  // Your code here
+ 
 }
 
 // Test case
