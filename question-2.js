@@ -1,5 +1,11 @@
 function findProductPrice(products, name) {
-  // Your code here
+  let result = -1;
+  for (i=0; i<products.length; i++) {
+    if (products[i].name === name) {
+      return products[i].price;
+    }
+  }
+  return result;
 }
 
 // Test case
