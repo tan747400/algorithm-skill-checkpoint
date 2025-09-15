@@ -1,0 +1,8 @@
+dcc5185 - Thanisorn - docs: add Big O notation explanation for sortProductsByPrice function
+b187f79 - Thanisorn - feat: implement bubble sort algorithm in sortProductsByPrice function
+3a07843 - Thanisorn - refactor: use  let in for loops for findStudentById and findProductPrice functions
+0f8bfdd - Thanisorn - docs: update Big O notation explanations for findStudentById and findProductPrice functions
+ed46a31 - Thanisorn - feat: implement findProductPrice function to return product price by name
+9bb2611 - Thanisorn - feat: implement findStudentById function to retrieve student by ID
+9550d3c - CodePawsDev - fix: fixing test case for question-1
+a1d979f - CodePawsDev - feat: add initial files
